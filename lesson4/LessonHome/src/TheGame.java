@@ -1,7 +1,7 @@
 
 import java.util.Random;
 import java.util.Scanner;
-public class TheGame {
+public class TheGame1 {
 
     public static int SIZE = 3;
     public static int Dots_to_Win = 3;
