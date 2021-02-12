@@ -7,7 +7,7 @@ public class HomeWork4 {
         persArray[1] = new Person("Petrov","Slave","petrov@mail.ru","23231",50,45);
         persArray[2] = new Person("Backer","Junior Manager","Backer@mail.com","00321",60000,25);
         persArray[3] = new Person("Arnold","middle manager","Dog@yandex.ru","4211412", 90000,55);
-        persArray[4] = new Person("Bob","middle slave","cat@mail.ru","41111323",100,33);
+        persArray[4] = new Person("Bo","middle slave","cat@mail.ru","41111323",100,33);
 
 
         for(Person item : persArray) {

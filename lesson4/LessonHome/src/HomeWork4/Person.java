@@ -16,7 +16,7 @@ class Person {
         if(age>= 18) {
             this.age = age;
         } else {
-            System.out.println("Сотрудник должен быть старше 18 лет");
+            System.out.println("Сотрудник должен быть старше 18 лет!");
         }
     }
     int GetAge(){
