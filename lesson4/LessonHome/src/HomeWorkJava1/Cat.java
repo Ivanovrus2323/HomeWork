@@ -36,4 +36,4 @@ public class Cat implements JumpRun {
         return "Кот по кличке " + nickname;
     }
 }
-
+//
